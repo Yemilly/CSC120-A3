@@ -11,13 +11,13 @@ class Conversation {
       for (int i = 0; i< num_rounds; i++);
     input.close();
 
-  
-  
+
+    
   System.out.println("Hi there! What's on your mind???");
+
+  System.out.print("Okay, bye!");
   
   
-
-
   } 
 
 } 
