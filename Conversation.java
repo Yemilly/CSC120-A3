@@ -12,8 +12,11 @@ class Conversation {
     input.close();
 
 
-    
+
   System.out.println("Hi there! What's on your mind???");
+  
+
+
 
   System.out.print("Okay, bye!");
   
